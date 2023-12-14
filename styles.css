@@ -46,8 +46,7 @@ h3, p, button {
   padding: 36px 45px 41px 45px;
   background-color: #fff;
   border-radius: 0 0 15px 15px;
-  display: flex;
-  max-width: 90%;
+  
 }
 
 .card__content-title {
@@ -56,6 +55,7 @@ h3, p, button {
   font-weight: 800;
   width: 60%
   white-space: normal;
+  max-width: 90%;
 }
 
 .card__content-description {
