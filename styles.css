@@ -116,6 +116,7 @@ a.glo{
 .about{
   margin-top: 10%;
   font-size: 12px;
+ line-height: 20px;
 }
 input{
   max-width: 30%;
