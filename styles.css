@@ -160,7 +160,7 @@ li {
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=Open+Sans&family=Prompt:ital,wght@1,300&display=swap');
 h2 {
-  font-size: 25px;
+  font-size: 18px;
   line-height: 34px;
   font-weight: 300;
   letter-spacing: 1px;
@@ -313,11 +313,11 @@ ul li input[type=checkbox]:checked ~ i:after {
   transition: background-color .6s ease;
   overflow: hidden;
   margin-top: 2%;
-  margin-left: 15%;
-  max-height: 12px;
-  min-height: 15px;
-  min-width: 30px;
-  max-width:40px;
+  margin-left: 0;
+  max-height: 8px;
+  min-height: 8px;
+  min-width: 18px;
+  max-width:18px;
   font-size: 10px;
   text-align: center;
   
