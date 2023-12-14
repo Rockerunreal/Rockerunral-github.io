@@ -322,7 +322,9 @@ ul li input[type=checkbox]:checked ~ i:after {
   max-width:12px;
   font-size: 10px;
   text-align: center;
-
+ display: flex; 
+  justify-content: center; 
+  align-items: center;
 
   
   &:after {
