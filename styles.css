@@ -117,7 +117,7 @@ a.glo{
   margin-top: 10%;
   font-size: 8px;
   line-height: 15px;
-  white-space: nowrap;
+  hyphens: auto;
 }
 input{
   max-width: 30%;
